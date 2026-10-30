@@ -1,0 +1,2807 @@
+{
+ "meta": {
+  "generatedAt": "2026-10-26",
+  "source": "DSHK public API (api-dshk.shaffofqurilish.uz)",
+  "demo": true
+ },
+ "stats": {
+  "objects": 28235,
+  "apartments": 597008,
+  "blocks": 46730,
+  "inProgress": 20427,
+  "frozen": 1977,
+  "stopped": 5831,
+  "completed": 0,
+  "floor1to5": 20720,
+  "floor6to12": 2399,
+  "floor13plus": 386,
+  "illegal": 1208
+ },
+ "regionStats": [
+  {
+   "name": "Toshkent viloyati",
+   "count": 3464
+  },
+  {
+   "name": "Samarqand viloyati",
+   "count": 3097
+  },
+  {
+   "name": "Buxoro viloyati",
+   "count": 2546
+  },
+  {
+   "name": "Qashqadaryo viloyati",
+   "count": 2482
+  },
+  {
+   "name": "Farg'ona viloyati",
+   "count": 2260
+  },
+  {
+   "name": "Toshkent shahar",
+   "count": 2221
+  },
+  {
+   "name": "Xorazm viloyati",
+   "count": 2158
+  },
+  {
+   "name": "Qoraqalpog'iston Respublikasi",
+   "count": 2032
+  },
+  {
+   "name": "Boshqa hududlar",
+   "count": 7975
+  }
+ ],
+ "illegalRegionStats": [
+  {
+   "name": "Toshkent shahar",
+   "count": 203
+  },
+  {
+   "name": "Andijon viloyati",
+   "count": 176
+  },
+  {
+   "name": "Qashqadaryo viloyati",
+   "count": 117
+  },
+  {
+   "name": "Buxoro viloyati",
+   "count": 108
+  },
+  {
+   "name": "Samarqand viloyati",
+   "count": 94
+  },
+  {
+   "name": "Jizzax viloyati",
+   "count": 86
+  },
+  {
+   "name": "Qoraqalpog'iston Respublikasi",
+   "count": 72
+  },
+  {
+   "name": "Toshkent viloyati",
+   "count": 63
+  },
+  {
+   "name": "Boshqa hududlar",
+   "count": 289
+  }
+ ],
+ "construction": [
+  {
+   "kind": "construction",
+   "id": 67175,
+   "reestr": "266389",
+   "name": "“Yunusobod tumani “Minor” MFY, KXAY ko‘chasi, 1-uy manzilida joylashgan savdo-maishiy xizmat ko‘rsatish obyektlari va pastki qavatlarida avtoturargohi bo‘lgan ko‘p qavatli turar-joy binolarini qurish” obyekti 1-bosqich",
+   "shortName": "Yunusobod · Turar-joy majmuasi",
+   "address": "Minor MFY, Kichik halqa avtomobil yo‘li ko'chasi, 1-uy",
+   "region": "Toshkent shahar",
+   "district": "Yunusobod tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-12-23",
+   "floors": 28,
+   "apartments": 802,
+   "blocks": 13,
+   "area": null,
+   "organization": "\"SHIFOBAXSH BULOQ\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.33772683392089,
+   "lon": 69.27667647600174,
+   "updatedAt": "2026-09-28 01:54:10",
+   "blockList": [
+    {
+     "name": "A-blok",
+     "floor": "26",
+     "area": null,
+     "apartments": "150"
+    },
+    {
+     "name": "A-blok noturar",
+     "floor": "1",
+     "area": null,
+     "apartments": null
+    },
+    {
+     "name": "B-blok",
+     "floor": "28",
+     "area": null,
+     "apartments": "122"
+    },
+    {
+     "name": "B-blok noturar",
+     "floor": "1",
+     "area": null,
+     "apartments": null
+    },
+    {
+     "name": "V-blok",
+     "floor": "26",
+     "area": null,
+     "apartments": "129"
+    },
+    {
+     "name": "V-blok noturar",
+     "floor": "1",
+     "area": null,
+     "apartments": null
+    }
+   ],
+   "verdict": "registered",
+   "cadastral": "10:01:01:01:01:0123",
+   "demoCadastral": true
+  },
+  {
+   "kind": "construction",
+   "id": 64358,
+   "reestr": "259492",
+   "name": "“Mavjud binolarni buzib 7 qavatli 8-qavati pentxausli, 1-qavati savdo va maishiy xizmat yuqori qavatlari turar-joy” bino va inshootlarini qurilishi.",
+   "shortName": "Paxtaobod · Turar-joy majmuasi",
+   "address": "Sanoat MFY, Sanoat ko'chasi, 78-uy",
+   "region": "Andijon viloyati",
+   "district": "Paxtaobod tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-11-30",
+   "floors": 7,
+   "apartments": 72,
+   "blocks": 2,
+   "area": 81312.0,
+   "organization": "\"MIRZAJONOV COMPANI\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.03943757930051,
+   "lon": 72.3433804884553,
+   "updatedAt": "2026-09-27 20:05:15",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "7",
+     "area": "40656",
+     "apartments": "36"
+    },
+    {
+     "name": "B",
+     "floor": "7",
+     "area": "40656",
+     "apartments": "36"
+    }
+   ],
+   "verdict": "registered",
+   "cadastral": "10:05:02:03:04:0456",
+   "demoCadastral": true
+  },
+  {
+   "kind": "construction",
+   "id": 65827,
+   "reestr": "237711",
+   "name": "Buxoro viloyati Buxoro tumani “Yangiturmush” MFYda tashqi ichimlik suv taʻminotini qurish",
+   "shortName": "Buxoro · Suv ta’minoti",
+   "address": "Buxoro viloyati Buxoro tumani “Yangiturmush” MFY",
+   "region": "Buxoro viloyati",
+   "district": "Buxoro tumani",
+   "type": "Suv ta’minoti",
+   "sphere": "Ichimlik suvi ta’minoti va oqova suvi",
+   "sphereId": 21,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-05-30",
+   "floors": 1,
+   "apartments": 0,
+   "blocks": 2,
+   "area": 5500000.0,
+   "organization": "\"VILOYAT HOKIMLIGI HUZURIDAGI YAGONA BUYURTMACHI XIZMATI INJINIRING KOMPANIYASI\" DAVLAT MUASSASASI",
+   "lat": 39.862989173071234,
+   "lon": 64.51532397419214,
+   "updatedAt": "2026-09-27 17:22:43",
+   "blockList": [
+    {
+     "name": "Ичимлик сув қувури",
+     "floor": "1",
+     "area": "5000000",
+     "apartments": null
+    },
+    {
+     "name": "Ичимлик сув қувури",
+     "floor": "1",
+     "area": "500000",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered",
+   "cadastral": "10:09:03:02:01:0789",
+   "demoCadastral": true
+  },
+  {
+   "kind": "construction",
+   "id": 19731,
+   "reestr": "216490",
+   "name": "Farg'ona viloyati, Farg'ona shahar Ilg’or MFY (EKO shahar) hududi 67-lotda 9 qavatli bininchi qavati noturar, qolgan qavatlari turar-joy binosi qurish.",
+   "shortName": "Fargʻona · Turar-joy majmuasi",
+   "address": "Илғор МФЙ, Мустакиллик шох кучаси, 67-уй",
+   "region": "Farg'ona viloyati",
+   "district": "Fargʻona shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "To‘xtatilgan",
+   "statusKey": "stopped",
+   "deadline": "2026-01-31",
+   "floors": 10,
+   "apartments": 84,
+   "blocks": 2,
+   "area": 1600.0,
+   "organization": "\"MONERON\" MAS'ULIYATI CHEKLANGAN JAMIYAT XORIJIY KORXONA",
+   "lat": 40.37218689473352,
+   "lon": 71.72270450054623,
+   "updatedAt": "2026-09-27 17:26:08",
+   "blockList": [
+    {
+     "name": "B",
+     "floor": "1",
+     "area": "800",
+     "apartments": null
+    },
+    {
+     "name": "A",
+     "floor": "10",
+     "area": "800",
+     "apartments": "84"
+    }
+   ],
+   "verdict": "registered",
+   "cadastral": "10:01:07:02:03:0345",
+   "demoCadastral": true
+  },
+  {
+   "kind": "construction",
+   "id": 69191,
+   "reestr": "256627",
+   "name": "Qurilish sanoati korxonalari (Oxak ishlab chiqarish zavodi)",
+   "shortName": "Forish · Jamoat binosi",
+   "address": "Egizbuloq MFY,",
+   "region": "Jizzax viloyati",
+   "district": "Forish tumani",
+   "type": "Jamoat binosi",
+   "sphere": "Jamoat binolari va ma'muriy binolar",
+   "sphereId": 53,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-03-20",
+   "floors": 2,
+   "apartments": 0,
+   "blocks": 7,
+   "area": 106661.0,
+   "organization": "\"OLMALIQ KON-METALLURGIYA KOMBINATI\" AKSIYADORLIK JAMIYATI",
+   "lat": 40.332223565382314,
+   "lon": 67.59238969534636,
+   "updatedAt": "2026-09-28 02:38:21",
+   "blockList": [
+    {
+     "name": "ABK-1",
+     "floor": "2",
+     "area": "9347",
+     "apartments": null
+    },
+    {
+     "name": "ABK-2",
+     "floor": "1",
+     "area": "6288",
+     "apartments": null
+    },
+    {
+     "name": "Obshij-kotej",
+     "floor": "1",
+     "area": "49025",
+     "apartments": null
+    },
+    {
+     "name": "Ytoqxona",
+     "floor": "2",
+     "area": "1420",
+     "apartments": null
+    },
+    {
+     "name": "Oshxona",
+     "floor": "1",
+     "area": "506",
+     "apartments": null
+    },
+    {
+     "name": "KPP-1,2",
+     "floor": "1",
+     "area": "75",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67348,
+   "reestr": "269066",
+   "name": "Shaharsozlik norma va qoidalari asosida, Loyihadan chetlashmaslik sharti bilan o‘z qizil chiziq hududida noturar bino-inshootlarini buzib loyiha asosida xususiy maktab, xususiy bog‘cha, xususiy klinika hamda savdo va maishiy xizmat ko‘rsatish shahobchalarini o‘z ichiga olgan ko‘p qavatli turar-joy bino-inshootlari B-blok",
+   "shortName": "Namangan · Turar-joy majmuasi",
+   "address": "Diyor MFY, Andijon ko'chasi, 139-a-uy",
+   "region": "Namangan viloyati",
+   "district": "Namangan shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-12-27",
+   "floors": 12,
+   "apartments": 77,
+   "blocks": 1,
+   "area": null,
+   "organization": "\"WORLD CLASS BUILDING HOUSE\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 40.99316164242668,
+   "lon": 71.65925826877356,
+   "updatedAt": "2026-09-28 01:52:39",
+   "blockList": [
+    {
+     "name": "1",
+     "floor": "12",
+     "area": null,
+     "apartments": "77"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 57700,
+   "reestr": "236027",
+   "name": "“Kokpatas va Daugiztau oltin konlarida ma’dan qazib olish. III navbat” Texnik-iqtisodiy asoslari doirasida “3-gidrometallugiya zavodining chiqindi saqlash omborini kengaytirish”",
+   "shortName": "Uchquduq · Boshqa obyekt",
+   "address": "Bozdun OFY,",
+   "region": "Navoiy viloyati",
+   "district": "Uchquduq tumani",
+   "type": "Boshqa obyekt",
+   "sphere": "Boshqalar",
+   "sphereId": 45,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-04-30",
+   "floors": 1,
+   "apartments": 0,
+   "blocks": 1,
+   "area": 210000.0,
+   "organization": "\"НKМK\" АЖ ШКБ КҚБ",
+   "lat": 41.980991625427606,
+   "lon": 63.78211703010418,
+   "updatedAt": "2026-09-27 22:26:13",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "1",
+     "area": "210000",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 54042,
+   "reestr": "225209",
+   "name": "Zarafshon shahar 13-kichik tuman o'z hududidan chiqmagan holda \"PREMIUM SERVICE ZARAFSHAN\" MCHJ ga ko'p qavatli turar joy binolari qurish uchun",
+   "shortName": "Zarafshon · Turar-joy majmuasi",
+   "address": "Bahor MFY, 13 mitti tuman dahasi, 227-uy",
+   "region": "Navoiy viloyati",
+   "district": "Zarafshon shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Muzlatilgan",
+   "statusKey": "frozen",
+   "deadline": "2026-12-28",
+   "floors": 7,
+   "apartments": 196,
+   "blocks": 3,
+   "area": 1691.0,
+   "organization": "\"PREMIUM SERVICE ZARAFSHAN\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.584560282951536,
+   "lon": 64.22064006328583,
+   "updatedAt": "2026-09-27 23:21:12",
+   "blockList": [
+    {
+     "name": "Ko‘p qavatli turar joy binosi",
+     "floor": "7",
+     "area": "457",
+     "apartments": "42"
+    },
+    {
+     "name": "Ko‘p qavatli turar joy binosi",
+     "floor": "7",
+     "area": "777",
+     "apartments": "126"
+    },
+    {
+     "name": "Ko‘p qavatli turar joy binosi n3",
+     "floor": "7",
+     "area": "457",
+     "apartments": "28"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67391,
+   "reestr": "270697",
+   "name": "Loyiha topshirig'iga asosan Ko'p qavatli turar joy 9-qavatli loyihalashtirish binosi.",
+   "shortName": "Chiroqchi · Turar-joy majmuasi",
+   "address": "Chiroqchi MFY, Mustaqillik ko'chasi, 157-uy",
+   "region": "Qashqadaryo viloyati",
+   "district": "Chiroqchi tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-12-29",
+   "floors": 9,
+   "apartments": 99,
+   "blocks": 1,
+   "area": null,
+   "organization": "CHOSHTEPA CHASHMASI MCHJ",
+   "lat": 39.0259854817454,
+   "lon": 66.58668704330921,
+   "updatedAt": "2026-09-28 01:55:15",
+   "blockList": [
+    {
+     "name": "Turar-joy",
+     "floor": "9",
+     "area": null,
+     "apartments": "99"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 76397,
+   "reestr": "278995",
+   "name": "«Qashqadaryo viloyati Shahrisabz tumani Qani MFY hududida joylashgan O’ZBEKISTON KASABA UYUSHMALARI FEDERATSIYASIga qarashli “Qani” sanatoriysini rekonstruksiya qilish”",
+   "shortName": "Shaxrisabz  · Boshqa obyekt",
+   "address": "Uloch MFY, Qani qishlog'i, 306А-uy",
+   "region": "Qashqadaryo viloyati",
+   "district": "Shaxrisabz  tumani",
+   "type": "Boshqa obyekt",
+   "sphere": "Boshqalar",
+   "sphereId": 45,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2028-09-03",
+   "floors": 3,
+   "apartments": 0,
+   "blocks": 1,
+   "area": 45300.0,
+   "organization": "УЧРЕЖДЕНИЕ \"O`ZBEKISTON KASABA UYUSHMALARI FEDERASIYASI KAPITAL QURILISH BOSHQARMASI\"",
+   "lat": 39.03316763812,
+   "lon": 67.0634426549077,
+   "updatedAt": "2026-09-28 04:55:14",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "3",
+     "area": "45300",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 57535,
+   "reestr": "271055",
+   "name": "Qoraqalpog‘iston Respublikasi Beruniy tumani “Хorazm” MFYda Ko’p qavatli turar joylar qurilishi loyihasi",
+   "shortName": "Beruniy · Turar-joy majmuasi",
+   "address": "Xorazm MFY, Kat ko'chasi, 42/4-uy",
+   "region": "Qoraqalpog'iston Respublikasi",
+   "district": "Beruniy tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-04-25",
+   "floors": 5,
+   "apartments": 249,
+   "blocks": 6,
+   "area": 3744.0,
+   "organization": "\"GRAF FORTUNA LOGISTIK\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.686585390682176,
+   "lon": 60.73344949632883,
+   "updatedAt": "2026-09-27 17:31:34",
+   "blockList": [
+    {
+     "name": "1",
+     "floor": "5",
+     "area": "574",
+     "apartments": "35"
+    },
+    {
+     "name": "4",
+     "floor": "5",
+     "area": "575",
+     "apartments": "34"
+    },
+    {
+     "name": "5 va 7",
+     "floor": "5",
+     "area": "595",
+     "apartments": "40"
+    },
+    {
+     "name": "2",
+     "floor": "5",
+     "area": "547",
+     "apartments": "40"
+    },
+    {
+     "name": "3",
+     "floor": "5",
+     "area": "274",
+     "apartments": "20"
+    },
+    {
+     "name": "6 va 8",
+     "floor": "5",
+     "area": "1179",
+     "apartments": "80"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67360,
+   "reestr": "269537",
+   "name": "Samarqand viloyati Payariq tumani Xo'ja Ismoil MFYda 5 qavatli turar-joy binolari qurilishi.",
+   "shortName": "Payariq · Turar-joy majmuasi",
+   "address": "Xoʻja Ismoil MFY, Albuxoriy shoh ko'chasi,",
+   "region": "Samarqand viloyati",
+   "district": "Payariq tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-04-29",
+   "floors": 5,
+   "apartments": 60,
+   "blocks": 2,
+   "area": 960.0,
+   "organization": "\"NURLI YO`L SERVICE\" mas`uliyati cheklangan jamiyati",
+   "lat": 39.80808351556203,
+   "lon": 66.93260047584772,
+   "updatedAt": "2026-09-28 01:54:47",
+   "blockList": [
+    {
+     "name": "Blok 1",
+     "floor": "5",
+     "area": "480",
+     "apartments": "30"
+    },
+    {
+     "name": "Blok 2",
+     "floor": "5",
+     "area": "480",
+     "apartments": "30"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67282,
+   "reestr": "285679",
+   "name": "Samarqand shahar Birlik MFY Birlik ko’chasi 4-uy hududida joylashgan “Ishlab chiqarish binosini buzish va hudud hisobidan bolalar bog`chasi, fitnes zal, mini stadion va ko‘p xonadonli turar-joy binosini qurish",
+   "shortName": "Samarqand · Turar-joy majmuasi",
+   "address": "Birlik MFY, Birlik ko'chasi, 4-uy",
+   "region": "Samarqand viloyati",
+   "district": "Samarqand shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2029-12-25",
+   "floors": 7,
+   "apartments": 318,
+   "blocks": 9,
+   "area": 6458.0,
+   "organization": "\"RESIDENCE ANXOR\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 39.66412035689295,
+   "lon": 66.95613786578178,
+   "updatedAt": "2026-09-28 01:54:10",
+   "blockList": [
+    {
+     "name": "1",
+     "floor": "7",
+     "area": "627",
+     "apartments": "42"
+    },
+    {
+     "name": "2",
+     "floor": "7",
+     "area": "437",
+     "apartments": "36"
+    },
+    {
+     "name": "9",
+     "floor": "7",
+     "area": "627",
+     "apartments": "42"
+    },
+    {
+     "name": "5",
+     "floor": "7",
+     "area": "437",
+     "apartments": "36"
+    },
+    {
+     "name": "6",
+     "floor": "1",
+     "area": "2012",
+     "apartments": null
+    },
+    {
+     "name": "7",
+     "floor": "7",
+     "area": "627",
+     "apartments": "42"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 58040,
+   "reestr": "234051",
+   "name": "\"Ўз ҳудудидан 100 ўринли мактабгача таълим муасассаси ҳамда турар - жойларнинг 1-қаватида 100 ўринли поликлиникадан ташкил топган қўп хонадонли турар-жой биноси\"ни лойихалаштириш учун. (sohil-2)",
+   "shortName": "Samarqand · Turar-joy majmuasi",
+   "address": "Yuksalish MFY, Uzbek Trakt ko'chasi, 200-uy",
+   "region": "Samarqand viloyati",
+   "district": "Samarqand shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-05-08",
+   "floors": 7,
+   "apartments": 658,
+   "blocks": 17,
+   "area": 57997.0,
+   "organization": "\"TXTGROUP\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 39.710094032553194,
+   "lon": 66.97913479059935,
+   "updatedAt": "2026-09-27 22:35:39",
+   "blockList": [
+    {
+     "name": "Blok 2",
+     "floor": "7",
+     "area": "492",
+     "apartments": "38"
+    },
+    {
+     "name": "Blok 3",
+     "floor": "7",
+     "area": "754",
+     "apartments": "33"
+    },
+    {
+     "name": "Blok 1",
+     "floor": "7",
+     "area": "492",
+     "apartments": "38"
+    },
+    {
+     "name": "1",
+     "floor": "7",
+     "area": "400",
+     "apartments": "18"
+    },
+    {
+     "name": "2",
+     "floor": "7",
+     "area": "455",
+     "apartments": "58"
+    },
+    {
+     "name": "A",
+     "floor": "7",
+     "area": "2563",
+     "apartments": "25"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67444,
+   "reestr": "269340",
+   "name": "Sirdaryo viloyati Guliston tumani \"Zarbdor\" MFY hududida \"SAYHUN INVEST\" MCHJ tomonidan \"Ko’p qavatli turar-joy binolari\" qurish",
+   "shortName": "Guliston · Turar-joy majmuasi",
+   "address": "Zarbdor MFY, Loyihalash ko'chasi,",
+   "region": "Sirdaryo viloyati",
+   "district": "Guliston tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-10-01",
+   "floors": 9,
+   "apartments": 183,
+   "blocks": 1,
+   "area": 2755.0,
+   "organization": "\"SAYHUN INVEST\" MCHJ",
+   "lat": 40.51742134898413,
+   "lon": 68.79409108310938,
+   "updatedAt": "2026-09-28 01:52:46",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "9",
+     "area": "2755",
+     "apartments": "183"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67284,
+   "reestr": "269882",
+   "name": "Sariosiyo tumani Lutifkor MFY, Yangi O'zbekiston massivi Sariosiyo ko‘chasi, 186А-uyda 1-qavati savdo va maishiy xizmat ko'rsatish nuqtalari bo'lgan 2 yo'lakdan iborat 9 qavatli 96 xonadonli turar-joy binosi qurilishi.",
+   "shortName": "Sariosiyo · Turar-joy majmuasi",
+   "address": "Lutifkor MFY, Sariosiyo ko‘chasi, 186А-uy",
+   "region": "Surxondaryo viloyati",
+   "district": "Sariosiyo tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-12-26",
+   "floors": 9,
+   "apartments": 96,
+   "blocks": 1,
+   "area": 5974.0,
+   "organization": "RAXIMOV OBIDJON LUTFULLAYEVICH",
+   "lat": 38.429031081632814,
+   "lon": 67.95314949005842,
+   "updatedAt": "2026-09-28 01:54:11",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "9",
+     "area": "5974",
+     "apartments": "96"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67311,
+   "reestr": "270066",
+   "name": "Termiz shahar “Manguzar” MFY Farovon 3 dahasi 21-uyda 9 qavatli 2 yo‘lakdan iborat 98 xonadonli turar-joy binosi qurilishi.",
+   "shortName": "Termiz · Turar-joy majmuasi",
+   "address": "Manguzar MFY, Farovon 3 dahasi, 21-uy",
+   "region": "Surxondaryo viloyati",
+   "district": "Termiz shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-06-26",
+   "floors": 9,
+   "apartments": 98,
+   "blocks": 1,
+   "area": 8884.0,
+   "organization": "\"HEALTH LIFE-MED\" MCHJ",
+   "lat": 37.24569006925844,
+   "lon": 67.31482397764921,
+   "updatedAt": "2026-09-28 01:48:23",
+   "blockList": [
+    {
+     "name": "А",
+     "floor": "9",
+     "area": "8884",
+     "apartments": "98"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 65740,
+   "reestr": "261884",
+   "name": "(ITB-2) Termez tumani Nurafshon MFY Orol MFY Yangixayot MFY Toza ichimlik suvi taʼminoti tizimini rekonstruksiya qilish",
+   "shortName": "Termiz · Suv ta’minoti",
+   "address": "(ITB-2) Termez tumani Nurafshon MFY Orol MFY Yangixayot MFY",
+   "region": "Surxondaryo viloyati",
+   "district": "Termiz tumani",
+   "type": "Suv ta’minoti",
+   "sphere": "Ichimlik suvi ta’minoti va oqova suvi",
+   "sphereId": 21,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-12-20",
+   "floors": 1,
+   "apartments": 0,
+   "blocks": 3,
+   "area": 45000.0,
+   "organization": "\"O`ZSUVTA`MINOT AKSIYADORLIK JAMIYATI SUV TA`MINOTI VA OQOVA SUV OB`EKTLARI QURILISHI BO`YICHA INJINIRING KOMPANIYASI UNITAR KORHONASI SURXONDARYO VILOYATI HUDUDIY BOSHQARMASI\" UNITAR KORXONA",
+   "lat": 37.337323101021255,
+   "lon": 67.19555452466011,
+   "updatedAt": "2026-09-27 20:07:13",
+   "blockList": [
+    {
+     "name": "Сув тармоғи",
+     "floor": "1",
+     "area": "45000",
+     "apartments": null
+    },
+    {
+     "name": "Сув тармоғи",
+     "floor": null,
+     "area": null,
+     "apartments": null
+    },
+    {
+     "name": "Ичимлик сув тармоғи",
+     "floor": null,
+     "area": null,
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 4369,
+   "reestr": "217750",
+   "name": "Тирсакобод кўчаси манзилида жойлашган ҳарбий шаҳарчасини юридик хужжатга эга қисмида университет, мактаб, боғча, клиника, кўп ва ўрта қаватли турар - жойлар, коттедж, меҳмонхона ҳамда савдо ва маиший хизмат кўрсатиш мажмуаларига қайта ихтисослаштириб, реконструкция қилиш.",
+   "shortName": "Chilonzor · Turar-joy majmuasi",
+   "address": "Tirsakobod MFY, Tirsakobod ko'chasi, 5-a-uy",
+   "region": "Toshkent shahar",
+   "district": "Chilonzor tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-11-15",
+   "floors": 16,
+   "apartments": 1600,
+   "blocks": 5,
+   "area": 105205.0,
+   "organization": "OOO \"BM GROUP-CONSTRUCTION\"",
+   "lat": 41.24935523778017,
+   "lon": 69.20425708023495,
+   "updatedAt": "2026-09-27 18:43:30",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "16",
+     "area": "21041",
+     "apartments": "320"
+    },
+    {
+     "name": "B",
+     "floor": "16",
+     "area": "21041",
+     "apartments": "320"
+    },
+    {
+     "name": "V",
+     "floor": "16",
+     "area": "21041",
+     "apartments": "320"
+    },
+    {
+     "name": "G",
+     "floor": "16",
+     "area": "21041",
+     "apartments": "320"
+    },
+    {
+     "name": "D",
+     "floor": "16",
+     "area": "21041",
+     "apartments": "320"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 56608,
+   "reestr": "232293",
+   "name": "Переоформление Ўз ер участкасида ер ости автотураргоҳи пастки қаватларида савдо ва маиший хизмат кўрсатиш ижтимоий объектлар бўлган кўп квартирали турар жой сифатида иҳтисослаштириб қайта қуриш",
+   "shortName": "Yakkasaroy · Turar-joy majmuasi",
+   "address": "Dilbuloq MFY, Shota Rustaveli ko'chasi, 6-uy",
+   "region": "Toshkent shahar",
+   "district": "Yakkasaroy tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-03-11",
+   "floors": 25,
+   "apartments": 819,
+   "blocks": 4,
+   "area": 114262.0,
+   "organization": "\"TASHWELL GROUP\" MAS'ULIYATI CHEKLANGAN JAMIYAT XORIJIY KORXONA",
+   "lat": 41.27049423837107,
+   "lon": 69.23877619206905,
+   "updatedAt": "2026-09-27 19:36:20",
+   "blockList": [
+    {
+     "name": "A1",
+     "floor": "25",
+     "area": "33246",
+     "apartments": "332"
+    },
+    {
+     "name": "A2",
+     "floor": "25",
+     "area": "33246",
+     "apartments": "25"
+    },
+    {
+     "name": "B1",
+     "floor": "22",
+     "area": "25046",
+     "apartments": "243"
+    },
+    {
+     "name": "B2",
+     "floor": "20",
+     "area": "22724",
+     "apartments": "219"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 75159,
+   "reestr": "282760",
+   "name": "Toshkent shahri Yashnobod tuman Jo’rabek MFY Farg’ona yo’li ko’chasi 25-uy hududida joylashgan “O‘z yer uchastkasida pastki qavatlarida savdo va maishiy xizmat ko‘rsatish majmusi bo‘lgan ko‘p kvartirali turar-joy, mehmonxona, ofis va ma’muriy bino, ko‘ngilochar savdo majmuasi hamda ko‘p tarmoqli (MIXED-USE) binolarini qurish” (sherdor)",
+   "shortName": "Yashnobod · Turar-joy majmuasi",
+   "address": "Joʻrabek MFY, Fargʼona yoʼli ko'chasi, 25-uy",
+   "region": "Toshkent shahar",
+   "district": "Yashnobod tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2029-07-29",
+   "floors": 16,
+   "apartments": 2014,
+   "blocks": 23,
+   "area": 159238.0,
+   "organization": "\"SHERDOR DEVELOPMENT\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.28415395385823,
+   "lon": 69.3070350587368,
+   "updatedAt": "2026-09-28 04:21:05",
+   "blockList": [
+    {
+     "name": "Blok-1tip b1",
+     "floor": "16",
+     "area": "6707",
+     "apartments": "92"
+    },
+    {
+     "name": "Blok-2 B-1 TIP",
+     "floor": "16",
+     "area": "6707",
+     "apartments": "92"
+    },
+    {
+     "name": "Blok-3 TIP B-1",
+     "floor": "16",
+     "area": "6707",
+     "apartments": "92"
+    },
+    {
+     "name": "Blok-4 TIP B-2",
+     "floor": "16",
+     "area": "6173",
+     "apartments": "106"
+    },
+    {
+     "name": "Blok-5 TIP K-1",
+     "floor": "16",
+     "area": "6707",
+     "apartments": "92"
+    },
+    {
+     "name": "Blok-6 TIP K-1",
+     "floor": "16",
+     "area": "6707",
+     "apartments": "92"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 3067,
+   "reestr": "241096",
+   "name": "Кўп қаватли “Зўрсан” турар-жой мажмуаси қурулиши (КУРИЛИШ МУДДАТИ 50 ОЙ)",
+   "shortName": "Yunusobod · Turar-joy majmuasi",
+   "address": "Sobirobod MFY, Yuqori qoraqamish ko'chasi, 9-uy",
+   "region": "Toshkent shahar",
+   "district": "Yunusobod tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2028-09-30\n",
+   "floors": 18,
+   "apartments": 1576,
+   "blocks": 15,
+   "area": 132835.0,
+   "organization": "\"ZO'RSAN RESIDENCE DEVELOPER\" MAS'ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.37586040515445,
+   "lon": 69.27434272268974,
+   "updatedAt": "2026-09-27 23:09:51",
+   "blockList": [
+    {
+     "name": "13",
+     "floor": "18",
+     "area": "21919",
+     "apartments": "224"
+    },
+    {
+     "name": "6 blok",
+     "floor": "18",
+     "area": "9048",
+     "apartments": "80"
+    },
+    {
+     "name": "5blok",
+     "floor": "18",
+     "area": "9048",
+     "apartments": "80"
+    },
+    {
+     "name": "4blok",
+     "floor": "18",
+     "area": "9048",
+     "apartments": "128"
+    },
+    {
+     "name": "2blok",
+     "floor": "18",
+     "area": "9048",
+     "apartments": "120"
+    },
+    {
+     "name": "1 blok",
+     "floor": "18",
+     "area": "6512",
+     "apartments": "91"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 24400,
+   "reestr": "110619",
+   "name": "Нурафшон шаҳар Вилоят Тиббий чақирув хизмати «Call-markaz» (Республика шошилинч тиббий ёрдам илмий маркази Тошкент вилояти филиали Тез тиббий ёрдам станцияси) қуриш",
+   "shortName": "Nurafshon · Tibbiyot muassasasi",
+   "address": "Yangiobod MFY, Yangiobod ko'chasi, 35-uy",
+   "region": "Toshkent viloyati",
+   "district": "Nurafshon shahri",
+   "type": "Tibbiyot muassasasi",
+   "sphere": "Tibbiy va tibbiy-ijtimoiy muassasalar",
+   "sphereId": 27,
+   "status": "To‘xtatilgan",
+   "statusKey": "stopped",
+   "deadline": "2024-02-19",
+   "floors": 3,
+   "apartments": 0,
+   "blocks": 7,
+   "area": 112000.0,
+   "organization": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ \"TOSHKENT VILOYATI XOKIMLIGI XUZURIDAGI TOSHKENT VILOYATIDA BIZNES MARKAZLARINI",
+   "lat": 41.025345504873,
+   "lon": 69.34551101178195,
+   "updatedAt": "2026-09-27 21:11:34",
+   "blockList": [
+    {
+     "name": "Б",
+     "floor": "2",
+     "area": "16000",
+     "apartments": null
+    },
+    {
+     "name": "В",
+     "floor": "3",
+     "area": "16000",
+     "apartments": null
+    },
+    {
+     "name": "Г",
+     "floor": "1",
+     "area": "16000",
+     "apartments": null
+    },
+    {
+     "name": "Д",
+     "floor": "2",
+     "area": "16000",
+     "apartments": null
+    },
+    {
+     "name": "Е",
+     "floor": "2",
+     "area": "16000",
+     "apartments": null
+    },
+    {
+     "name": "Ё",
+     "floor": "2",
+     "area": "16000",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 62910,
+   "reestr": "239167",
+   "name": "12 qavatli koʻp qavatli turarjoy binolarini loyihalashtirish uchun.",
+   "shortName": "Nurafshon · Turar-joy majmuasi",
+   "address": "Yangiobod MFY, Yangiobod ko'chasi, 42-uy",
+   "region": "Toshkent viloyati",
+   "district": "Nurafshon shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Muzlatilgan",
+   "statusKey": "frozen",
+   "deadline": "2027-07-30",
+   "floors": 12,
+   "apartments": 140,
+   "blocks": 1,
+   "area": null,
+   "organization": "\"MONTIANO\" MAS`ULIYATI CHEKLANGAN JAMIYAT",
+   "lat": 41.025742198525315,
+   "lon": 69.35031350702047,
+   "updatedAt": "2026-09-27 22:35:37",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "12",
+     "area": null,
+     "apartments": "140"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 53984,
+   "reestr": "271197",
+   "name": "Ko`p qavatli turar-joy majmuasi (Pudratchi va Buyurtmachi ma'sul shaxslari o'zgardi, ekspertiza yangilandi, qayta rasmiylashtirish uchun)",
+   "shortName": "Oʻrtachirchiq · Turar-joy majmuasi",
+   "address": "O‘choqli MFY, Yashnaobod ko‘chasi, 44а-uy",
+   "region": "Toshkent viloyati",
+   "district": "Oʻrtachirchiq tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-12-26",
+   "floors": 11,
+   "apartments": 4076,
+   "blocks": 36,
+   "area": 3600000.0,
+   "organization": "\"WORLD BARAKA BUSINESS\" MAS'ULIYATI CHEKLANGAN JAMIYAT QO`SHMA KORXONA",
+   "lat": 41.19891849996325,
+   "lon": 69.33607298880816,
+   "updatedAt": "2026-09-28 00:23:40",
+   "blockList": [
+    {
+     "name": "Куп каватли турар жой",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "121"
+    },
+    {
+     "name": "Турар жой биноси",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "121"
+    },
+    {
+     "name": "Турар жой биноси",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "101"
+    },
+    {
+     "name": "Куп каватлий турар жой",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "121"
+    },
+    {
+     "name": "Турар жой биноси",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "101"
+    },
+    {
+     "name": "Турар жой биноси",
+     "floor": "11",
+     "area": "100000",
+     "apartments": "121"
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 54826,
+   "reestr": "225504",
+   "name": "Toshkent viloyati, O`rta Chirchiq tumani, Kim Pen Xva MFY, Kutb yulduzi ko'chasi 67-uy hududida «Molxona bino va inshootlari» qurilishi",
+   "shortName": "Oʻrtachirchiq · Boshqa obyekt",
+   "address": "Kim Pen Xva MFY, Kutb yulduzi ko'chasi, 67-uy",
+   "region": "Toshkent viloyati",
+   "district": "Oʻrtachirchiq tumani",
+   "type": "Boshqa obyekt",
+   "sphere": "Boshqalar",
+   "sphereId": 45,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-12-30",
+   "floors": 1,
+   "apartments": 0,
+   "blocks": 1,
+   "area": 8600000.0,
+   "organization": "\"KIM PEN XVA CHORVA\" FERMER XO‘JALIGI",
+   "lat": 41.123168721163594,
+   "lon": 69.28856905549765,
+   "updatedAt": "2026-09-27 21:37:54",
+   "blockList": [
+    {
+     "name": "Нотурар бино",
+     "floor": "1",
+     "area": "8600000",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 70253,
+   "reestr": "273928",
+   "name": "“Yuqori chirchiq tumani “Iyk Ota” MFYdagi 23-son maktabni rekonstruksiya qilish”.",
+   "shortName": "Yuqorichirchiq · Umumta’lim maktabi",
+   "address": "Iykota MFY, Baxt ko'chasi, 26-uy",
+   "region": "Toshkent viloyati",
+   "district": "Yuqorichirchiq tumani",
+   "type": "Umumta’lim maktabi",
+   "sphere": "Umumta’lim maktablari",
+   "sphereId": 3,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-09-17",
+   "floors": 3,
+   "apartments": 0,
+   "blocks": 3,
+   "area": 174000.0,
+   "organization": "\"TOSHKENT VILOYATI HOKIMLIGI \"YAGONA BUYURTMACHI\" XIZMATI\" DAVLAT MUASSASASI",
+   "lat": 41.22423025216304,
+   "lon": 69.36713933944702,
+   "updatedAt": "2026-09-28 02:53:00",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "3",
+     "area": "174000",
+     "apartments": null
+    },
+    {
+     "name": "B",
+     "floor": "2",
+     "area": null,
+     "apartments": null
+    },
+    {
+     "name": "V",
+     "floor": "1",
+     "area": null,
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67279,
+   "reestr": "270260",
+   "name": "«Xorazm viloyati Urganch shahri Obi-Xayot MFY Jayxun ko’chasida7 qavatli hamda penthousli ko’p xonadonli turar-joy kompleksi loyihasi",
+   "shortName": "Urganch · Turar-joy majmuasi",
+   "address": "Obihayot MFY, Jayhun ko'chasi, 1 tor ko'chasi, 8-uy",
+   "region": "Xorazm viloyati",
+   "district": "Urganch shahri",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "To‘xtatilgan",
+   "statusKey": "stopped",
+   "deadline": "2027-12-26",
+   "floors": 7,
+   "apartments": 172,
+   "blocks": 5,
+   "area": 3775.0,
+   "organization": "ABDULLAYEV OYBEK OZATOVICH",
+   "lat": 41.547769833607724,
+   "lon": 60.67064356058836,
+   "updatedAt": "2026-09-28 03:27:04",
+   "blockList": [
+    {
+     "name": "1",
+     "floor": "7",
+     "area": "673",
+     "apartments": "49"
+    },
+    {
+     "name": "2",
+     "floor": "7",
+     "area": "533",
+     "apartments": "39"
+    },
+    {
+     "name": "3",
+     "floor": "7",
+     "area": "533",
+     "apartments": "39"
+    },
+    {
+     "name": "4",
+     "floor": "7",
+     "area": "673",
+     "apartments": "45"
+    },
+    {
+     "name": "5",
+     "floor": "1",
+     "area": "1363",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 52890,
+   "reestr": "212877",
+   "name": "Хоразм вилояти Урганч тумани \"Бахшилар\" МФЙ ҳудудида 120 ўқувчи ўринли янги умумтаълим мактабини қуриш",
+   "shortName": "Urganch · Umumta’lim maktabi",
+   "address": "Bogʻdorchi MFY, Vatan Taraqqiyoti ko'chasi, 19-uy",
+   "region": "Xorazm viloyati",
+   "district": "Urganch tumani",
+   "type": "Umumta’lim maktabi",
+   "sphere": "Umumta’lim maktablari",
+   "sphereId": 3,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2026-12-19",
+   "floors": 2,
+   "apartments": 0,
+   "blocks": 1,
+   "area": 172258.0,
+   "organization": "\"XORAZM VILOYATI HOKIMLIGINING HUZURIDAGI YAGONA BUYURTMACHI XIZMATI INJINIRING KOMPANIYASI\" DAVLAT MUASSASASI",
+   "lat": 41.58771776190425,
+   "lon": 60.53723953664303,
+   "updatedAt": "2026-09-27 18:54:06",
+   "blockList": [
+    {
+     "name": "A",
+     "floor": "2",
+     "area": "172258",
+     "apartments": null
+    }
+   ],
+   "verdict": "registered"
+  },
+  {
+   "kind": "construction",
+   "id": 67398,
+   "reestr": "267632",
+   "name": "7 qavatli bino, 1 qavati savdo va maishiy xizmat ko‘rsatish shoxobchasi, 2-7 qavatlari turar-joy binosi",
+   "shortName": "Xonqa · Turar-joy majmuasi",
+   "address": "Yosh kuch MFY, Buyuk turon ko'chasi,",
+   "region": "Xorazm viloyati",
+   "district": "Xonqa tumani",
+   "type": "Turar-joy majmuasi",
+   "sphere": "Ko'p xonadonli uy-joylar",
+   "sphereId": 57,
+   "status": "Jarayonda",
+   "statusKey": "progress",
+   "deadline": "2027-12-29",
+   "floors": 7,
+   "apartments": 64,
+   "blocks": 1,
+   "area": 898.0,
+   "organization": "\"VATANPARVARLIK YOSHLAR KELAJAGI\" mas`uliyati cheklangan jamiyati",
+   "lat": 41.472870298304926,
+   "lon": 60.79886153340339,
+   "updatedAt": "2026-09-28 01:55:18",
+   "blockList": [
+    {
+     "name": "Turar-joy- Noturar bino",
+     "floor": "7",
+     "area": "898",
+     "apartments": "64"
+    }
+   ],
+   "verdict": "registered"
+  }
+ ],
+ "illegal": [
+  {
+   "kind": "illegal",
+   "id": 2155,
+   "danId": 33757,
+   "address": "Yuksalish MFY, Soʼqaloq ko‘chasi, 1-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 350.0,
+   "decision": "QRES2635301246469",
+   "protocol": "PAND2635304087975",
+   "lat": 40.647486357537,
+   "lon": 72.552619614604,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33757/info/ACT_33757_2026-03-30-17-28-32-927427.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-03-30",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1864,
+   "danId": 6950,
+   "address": "Шергирон МФЙ, Кушработ кучаси, 6-A-уй",
+   "region": "Buxoro viloyati",
+   "district": "Buxoro tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 192.0,
+   "decision": "QRES2535305025776",
+   "protocol": "PBUX2535309226517",
+   "lat": 39.777299534313,
+   "lon": 64.352484846707,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/6950/info/ACT_6950_2025-10-07-16-09-40-481962.jpg",
+    "https://dan.mc.uz/storage/acts/6950/info/ACT_6950_2025-10-07-16-09-40-494602.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2025-10-07",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1979,
+   "danId": 33188,
+   "address": "Guliston MFY Yuksalish ko'chasi",
+   "region": "Farg'ona viloyati",
+   "district": "Bagʻdod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 9.0,
+   "decision": "QRES2535305844464",
+   "protocol": "PFAR2535311143545",
+   "lat": 40.426925177186,
+   "lon": 71.109036098984,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33188/info/ACT_33188_2025-11-26-16-46-09-291709.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-11-26",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1891,
+   "danId": 32830,
+   "address": "Оқтош МФЙ, Урай, 80/3-уй",
+   "region": "Jizzax viloyati",
+   "district": "Baxmal tumani",
+   "type": "Turar-joy",
+   "purpose": "savdo va tijorat obyektlari",
+   "area": 170.0,
+   "decision": "QRES2535305241000",
+   "protocol": "PJIZ2535309638210",
+   "lat": 39.755595134665,
+   "lon": 67.631457286132,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/32830/info/ACT_32830_2025-10-17-11-10-21-175606.jpg",
+    "https://dan.mc.uz/storage/acts/32830/info/ACT_32830_2025-10-17-11-10-21-153055.jpg",
+    "https://dan.mc.uz/storage/acts/32830/info/ACT_32830_2025-10-17-11-10-21-184985.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2025-10-17",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2187,
+   "danId": 33825,
+   "address": "Nurafshon MFY, Yangi ko'chasi, 8-uy",
+   "region": "Namangan viloyati",
+   "district": "Chortoq tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 72.0,
+   "decision": "QRES2635301247018",
+   "protocol": "PNAM2635304075743",
+   "lat": 41.047660519453,
+   "lon": 71.832599121922,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33825/info/ACT_33825_2026-04-24-17-29-50-158963.jpg",
+    "https://dan.mc.uz/storage/acts/33825/info/ACT_33825_2026-04-24-17-29-50-176169.jpg",
+    "https://dan.mc.uz/storage/acts/33825/info/ACT_33825_2026-04-24-17-29-50-172392.jpg"
+   ],
+   "photoCount": 4,
+   "actDate": "2026-04-24",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2084,
+   "danId": 33548,
+   "address": "Bogʻishamol MFY, Obronon ko'chasi, 58-uy",
+   "region": "Navoiy viloyati",
+   "district": "Karmana tumani",
+   "type": "Turar-joy",
+   "purpose": "yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 50.0,
+   "decision": "3-1-2103-2602/237",
+   "protocol": "PNAV2635302018205",
+   "lat": 40.071816145359,
+   "lon": 65.458947738802,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33548/info/ACT_33548_2026-02-26-15-21-40-886005.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-26",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2074,
+   "danId": 33514,
+   "address": "Bunyodkor MFY, Amir Temur ko'chasi, 30/1-uy",
+   "region": "Qashqadaryo viloyati",
+   "district": "Qarshi tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 560.0,
+   "decision": "3-1-1802-2603/1061",
+   "protocol": "PKSH2635302807941",
+   "lat": 38.822450737645,
+   "lon": 65.653347564739,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33514/info/ACT_33514_2026-02-20-20-35-17-359139.jpg",
+    "https://dan.mc.uz/storage/acts/33514/info/ACT_33514_2026-02-20-20-35-17-375980.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-02-20",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2970,
+   "danId": 34448,
+   "address": "Obod makon MFY, Ustyurt ko'chasi, 2-uy, А-Корпус",
+   "region": "Qoraqalpog'iston Respublikasi",
+   "district": "Taxiatash tumani",
+   "type": "Noturar-joy",
+   "purpose": "Mumiy ovqatlanish shoxobchalari, shu jumladan, restoranlar",
+   "area": 84.0,
+   "decision": "QRES2635303960099",
+   "protocol": "PRKK2635304999886",
+   "lat": 42.346075799697,
+   "lon": 59.564301757046,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34448/info/ACT_34448_2026-05-20-19-36-03-608910.jpg",
+    "https://dan.mc.uz/storage/acts/34448/info/ACT_34448_2026-05-20-19-36-03-620177.jpg",
+    "https://dan.mc.uz/storage/acts/34448/info/ACT_34448_2026-05-20-19-36-03-612662.jpg"
+   ],
+   "photoCount": 4,
+   "actDate": "2026-05-20",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2024,
+   "danId": 33343,
+   "address": "Navbaxor MFY, Муллакичкина қишлоғи, 65-uy",
+   "region": "Samarqand viloyati",
+   "district": "Kattaqoʻrgʻon tumani",
+   "type": "Turar-joy",
+   "purpose": "yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 348.0,
+   "decision": "QRES2535306026415",
+   "protocol": "PSAM2535312156301",
+   "lat": 39.923692797964,
+   "lon": 66.281518636971,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33343/info/ACT_33343_2025-12-22-17-14-23-049695.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-12-22",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2140,
+   "danId": 33719,
+   "address": "Sharkobod MFY, Ziyolilar ko'chasi, 23а-uy",
+   "region": "Sirdaryo viloyati",
+   "district": "Xovos tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 41.4,
+   "decision": "QRES2635301017698",
+   "protocol": "PSIR2635302910607",
+   "lat": 40.231246253349,
+   "lon": 68.943635465357,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33719/info/ACT_33719_2026-03-24-16-42-30-433643.jpg",
+    "https://dan.mc.uz/storage/acts/33719/info/ACT_33719_2026-03-24-16-42-30-437509.jpg",
+    "https://dan.mc.uz/storage/acts/33719/info/ACT_33719_2026-03-24-16-42-30-426147.jpg"
+   ],
+   "photoCount": 4,
+   "actDate": "2026-03-24",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1960,
+   "danId": 33096,
+   "address": "Янгирузгор МФЙ, Турсунали Хасанов кучаси, 114 W/86-уй",
+   "region": "Surxondaryo viloyati",
+   "district": "Uzun tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 40.0,
+   "decision": "QRES2535305600208",
+   "protocol": "PSUR2535310400686",
+   "lat": 38.362849854182,
+   "lon": 67.992831197985,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33096/info/ACT_33096_2025-11-06-12-37-57-727387.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-11-06",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2116,
+   "danId": 33670,
+   "address": "Jo‘nariq MFY, Choshtepa ko'chasi, 184-uy",
+   "region": "Toshkent shahar",
+   "district": "Sirg’ali tumani",
+   "type": "Turar-joy",
+   "purpose": "Jamoat binolari va ma’muriy binolar",
+   "area": 1200.0,
+   "decision": "QRES2635301543689",
+   "protocol": "PTSH2635302540993",
+   "lat": 41.242067560337,
+   "lon": 69.198316991242,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33670/info/ACT_33670_2026-03-12-13-51-13-758362.jpg",
+    "https://dan.mc.uz/storage/acts/33670/info/ACT_33670_2026-03-12-13-51-13-775370.jpg",
+    "https://dan.mc.uz/storage/acts/33670/info/ACT_33670_2026-03-12-13-51-13-772972.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-03-12",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1884,
+   "danId": 19565,
+   "address": "Ovjazsoy MFY, Moviy tog‘lar ko'chasi, 5-a-uy",
+   "region": "Toshkent viloyati",
+   "district": "Ohangaron tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 300.0,
+   "decision": "QRES2535305062414",
+   "protocol": "PTVL2535309324800",
+   "lat": 40.802856910418,
+   "lon": 70.007085968781,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/19565/info/ACT_19565_2025-10-09-15-14-12-745291.jpg",
+    "https://dan.mc.uz/storage/acts/19565/info/ACT_19565_2025-10-09-15-14-12-803583.jpg",
+    "https://dan.mc.uz/storage/acts/19565/info/ACT_19565_2025-10-09-15-14-12-742053.jpg"
+   ],
+   "photoCount": 4,
+   "actDate": "2025-10-09",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 3020,
+   "danId": 6930,
+   "address": "Nurafshon MFY, Avesto ko'chasi, 212-uy",
+   "region": "Xorazm viloyati",
+   "district": "Gurlan tumani",
+   "type": "Noturar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 30.0,
+   "decision": "3-1-2206-2502/2020",
+   "protocol": "PXOR2535309025707",
+   "lat": 41.897016134687,
+   "lon": 60.381520813193,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/6930/info/ACT_6930_2025-10-02-15-50-12-797712.jpg",
+    "https://dan.mc.uz/storage/acts/6930/info/ACT_6930_2025-10-02-15-50-12-802426.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2025-10-02",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1923,
+   "danId": 32986,
+   "address": "Шомат МФЙ, Осуда кучаси, 8-уй",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Turar-joy",
+   "purpose": "Mumiy ovqatlanish shoxobchalari, shu jumladan, restoranlar",
+   "area": 132.0,
+   "decision": "QRES2535305510406",
+   "protocol": "PAND2535310085499",
+   "lat": 40.515029915241,
+   "lon": 72.321987226086,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/32986/info/ACT_32986_2025-10-28-18-00-41-357662.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-10-28",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2151,
+   "danId": 33749,
+   "address": "Naymanobod MFY, Katta Nayman koʼchasi, 81-uy",
+   "region": "Andijon viloyati",
+   "district": "Andijon tumani",
+   "type": "Turar-joy",
+   "purpose": "Jamoat binolari va ma’muriy binolar",
+   "area": 100.0,
+   "decision": "QRES2635301185411",
+   "protocol": "PAND2635303046044",
+   "lat": 40.845477060608,
+   "lon": 72.332412384158,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33749/info/ACT_33749_2026-04-06-18-39-51-993821.jpg",
+    "https://dan.mc.uz/storage/acts/33749/info/ACT_33749_2026-04-09-10-29-44-889955.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-04-06",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1968,
+   "danId": 33120,
+   "address": "Шодлик МФЙ, Хидиралиев кучаси, 206-уй",
+   "region": "Andijon viloyati",
+   "district": "Andijon shahri",
+   "type": "Turar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 189.28,
+   "decision": "QRES2535305601042",
+   "protocol": "PAND2535310669529",
+   "lat": 40.771617718664,
+   "lon": 72.320081367492,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33120/info/ACT_33120_2025-11-11-17-03-47-418554.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-11-11",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1898,
+   "danId": 32892,
+   "address": "Asaka Tuman, Birdamlik MFY, J.Rumiy kocha",
+   "region": "Andijon viloyati",
+   "district": "Asaka tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 334.8,
+   "decision": "QRES2535305241999",
+   "protocol": "PAND2535309870887",
+   "lat": 40.650332090079,
+   "lon": 72.24407433598,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/32892/info/ACT_32892_2025-10-21-17-00-38-075011.jpg",
+    "https://dan.mc.uz/storage/acts/32892/info/ACT_32892_2025-10-21-17-00-38-060644.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2025-10-21",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1911,
+   "danId": 32937,
+   "address": "Markaz MFY, Oltinko‘l shox ko'chasi, Oltinko‘l shox tor ko'chasi, 25-uy",
+   "region": "Andijon viloyati",
+   "district": "Oltinko’l tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 79.0,
+   "decision": "QRES2535305308259",
+   "protocol": "PAND2535309911106",
+   "lat": 40.800023647508,
+   "lon": 72.163341141855,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/32937/info/ACT_32937_2025-10-23-16-29-38-870808.jpg",
+    "https://dan.mc.uz/storage/acts/32937/info/ACT_32937_2025-10-23-16-29-38-884531.jpg",
+    "https://dan.mc.uz/storage/acts/32937/info/ACT_32937_2025-10-23-16-29-38-878020.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2025-10-23",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2219,
+   "danId": 33885,
+   "address": "Navroʻz MFY, Ipak yo‘li ko'chasi, 16-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 314.0,
+   "decision": "QRES2635301476906",
+   "protocol": "PAND2635304303095",
+   "lat": 40.503876276153,
+   "lon": 72.331794746554,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33885/info/ACT_33885_2026-04-30-20-18-02-226459.jpg",
+    "https://dan.mc.uz/storage/acts/33885/info/ACT_33885_2026-04-30-20-18-02-245991.jpg",
+    "https://dan.mc.uz/storage/acts/33885/info/ACT_33885_2026-04-30-20-18-02-253013.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-04-30",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2242,
+   "danId": 33914,
+   "address": "Yangihayot MFY, Porloq kelajak ko‘chasi, 447-uy",
+   "region": "Andijon viloyati",
+   "district": "Qo’rg’ontepa tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 30.0,
+   "decision": "QRES2635301466065",
+   "protocol": "PAND2635304474135",
+   "lat": 40.723755117882,
+   "lon": 72.747040865751,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33914/info/ACT_33914_2026-05-05-09-37-11-455998.jpg",
+    "https://dan.mc.uz/storage/acts/33914/info/ACT_33914_2026-05-05-09-37-11-470996.jpg",
+    "https://dan.mc.uz/storage/acts/33914/info/ACT_33914_2026-05-05-09-37-11-468582.jpg"
+   ],
+   "photoCount": 4,
+   "actDate": "2026-05-05",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2147,
+   "danId": 33734,
+   "address": "Andijon viloyati, Shaxrixon tumani, Mullaboy MFY",
+   "region": "Andijon viloyati",
+   "district": "Shahrixon tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 144.0,
+   "decision": "QRES2635301185432",
+   "protocol": "PAND2635303036021",
+   "lat": 40.715749204259,
+   "lon": 72.062251112758,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33734/info/ACT_33734_2026-03-27-11-54-55-089037.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-03-27",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2086,
+   "danId": 33552,
+   "address": "Oqoltin MFY, 149-uy",
+   "region": "Andijon viloyati",
+   "district": "Izboskan tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 60.0,
+   "decision": "QRES2635300574974",
+   "protocol": "PAND2635302025328",
+   "lat": 40.879420906399,
+   "lon": 72.268481898204,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33552/info/ACT_33552_2026-02-26-17-02-43-785632.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-26",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2232,
+   "danId": 33903,
+   "address": "Qurama MFY, Uzumzor ko'chasi, 100-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 103.24,
+   "decision": "QRES2635301659089",
+   "protocol": "PAND2635304412023",
+   "lat": 40.671409515007,
+   "lon": 72.535778820515,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33903/info/ACT_33903_2026-05-04-17-10-29-490160.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-04",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2241,
+   "danId": 33913,
+   "address": "Xursandlik MFY, Xidiraliyev koʼchasi, 39-uy",
+   "region": "Andijon viloyati",
+   "district": "Andijon shahri",
+   "type": "Turar-joy",
+   "purpose": "Mumiy ovqatlanish shoxobchalari, shu jumladan, restoranlar",
+   "area": 120.0,
+   "decision": "QRES2635301466229",
+   "protocol": "PAND2635304416342",
+   "lat": 40.762428140423,
+   "lon": 72.330563582624,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33913/info/ACT_33913_2026-05-04-20-16-09-767762.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-04",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1967,
+   "danId": 33119,
+   "address": "Andijon viloyati, Xo`jaobod tumani, Baxrin MFY, Paxtakor kuchasi, r/s-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 380.2,
+   "decision": "QRES2535305846924",
+   "protocol": "PAND2535311443014",
+   "lat": 40.661158705735,
+   "lon": 72.557228380509,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33119/info/ACT_33119_2025-11-11-16-44-45-985876.jpg",
+    "https://dan.mc.uz/storage/acts/33119/info/ACT_33119_2025-11-11-16-44-45-990126.jpg",
+    "https://dan.mc.uz/storage/acts/33119/info/ACT_33119_2025-11-11-16-44-45-982789.jpg"
+   ],
+   "photoCount": 6,
+   "actDate": "2025-11-11",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1970,
+   "danId": 33123,
+   "address": "Qadaqsin MFY, Qorasuv ko‘chasi, 12-uy",
+   "region": "Andijon viloyati",
+   "district": "Jalaquduq tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 36.0,
+   "decision": "QRES2535305600673",
+   "protocol": "PAND2535310624333",
+   "lat": 40.731014354355,
+   "lon": 72.651057481766,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33123/info/ACT_33123_2025-11-11-18-02-42-041448.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-11-11",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1974,
+   "danId": 33148,
+   "address": "Истиқлол МФЙ, Оқёр кучаси, 253-уй",
+   "region": "Andijon viloyati",
+   "district": "Andijon tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 154.0,
+   "decision": "QRES2635301032961",
+   "protocol": "PAND2635302532108",
+   "lat": 40.826670609462,
+   "lon": 72.335163135199,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33148/info/ACT_33148_2025-11-13-17-00-06-865063.jpg",
+    "https://dan.mc.uz/storage/acts/33148/info/ACT_33148_2025-11-13-17-00-06-875076.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2025-11-13",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2078,
+   "danId": 33526,
+   "address": "Yorboshi MFY, Beruniy ko'chasi, 16-uy",
+   "region": "Andijon viloyati",
+   "district": "Andijon shahri",
+   "type": "Turar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 63.47,
+   "decision": "QRES2635300574959",
+   "protocol": "PAND2635302010124",
+   "lat": 40.824183601285,
+   "lon": 72.351861965319,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33526/info/ACT_33526_2026-02-24-10-38-59-046821.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-24",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 1982,
+   "danId": 33197,
+   "address": "Uzunkoʻcha MFY, Karvon yo'li ko'chasi, 45a-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 12.2,
+   "decision": "QRES2535305846454",
+   "protocol": "PAND2535311261267",
+   "lat": 40.666882567779,
+   "lon": 72.564424717181,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33197/info/ACT_33197_2025-11-27-17-16-55-524137.jpg",
+    "https://dan.mc.uz/storage/acts/33197/info/ACT_33197_2025-11-27-17-16-55-516175.jpg",
+    "https://dan.mc.uz/storage/acts/33197/info/ACT_33197_2025-11-27-17-16-55-525494.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2025-11-27",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2172,
+   "danId": 33799,
+   "address": "Boboxuroson MFY, Bahoriston koʼchasi, 11-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 100.0,
+   "decision": "QRES2635301199375",
+   "protocol": "PAND2635303579342",
+   "lat": 40.535242050962,
+   "lon": 72.375201430705,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33799/info/ACT_33799_2026-04-13-12-09-09-583821.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-04-13",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2369,
+   "danId": 34126,
+   "address": "Dukchi Eshon MFY, Ipak yo'li ko'chasi, 18-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 60.0,
+   "decision": "QRES2635301464335",
+   "protocol": "PAND2635304708997",
+   "lat": 40.500737539106,
+   "lon": 72.346911370754,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34126/info/ACT_34126_2026-05-13-18-44-58-503036.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-13",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2018,
+   "danId": 33305,
+   "address": "Poloson MFY, Qo'rg'oncha ko'chasi, 8-uy",
+   "region": "Andijon viloyati",
+   "district": "Shahrixon tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 140.0,
+   "decision": "QRES2635300014743",
+   "protocol": "PAND2535311974522",
+   "lat": 40.687501667631,
+   "lon": 72.14415338,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33305/info/ACT_33305_2025-12-16-11-17-03-510978.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2025-12-16",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2037,
+   "danId": 33407,
+   "address": "Chem MFY, Chem ko'chasi, 619-uy",
+   "region": "Andijon viloyati",
+   "district": "Andijon tumani",
+   "type": "Noturar-joy",
+   "purpose": "Mumiy ovqatlanish shoxobchalari, shu jumladan, restoranlar",
+   "area": 104.0,
+   "decision": "QRES2635301032845",
+   "protocol": "PAND2635302505930",
+   "lat": 40.734104614804,
+   "lon": 72.314826561989,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33407/info/ACT_33407_2026-02-05-14-08-43-539778.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-05",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2041,
+   "danId": 33431,
+   "address": "Sariq joʻga MFY, Mustaqqillik ko'chasi, 23-uy",
+   "region": "Andijon viloyati",
+   "district": "Bo’ston tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 286.25,
+   "decision": "QRES2635300561664",
+   "protocol": "PAND2635301321245",
+   "lat": 40.681146525691,
+   "lon": 71.866698017455,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33431/info/ACT_33431_2026-02-09-19-02-04-315363.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-09",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2051,
+   "danId": 33454,
+   "address": "Yangi koʻrpa MFY, O'zbekiston 5 yilligi ko'chasi, 300-uy",
+   "region": "Andijon viloyati",
+   "district": "Jalaquduq tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 120.0,
+   "decision": "QRES2635300561773",
+   "protocol": "PAND2635301770375",
+   "lat": 40.596378734763,
+   "lon": 72.743247687817,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33454/info/ACT_33454_2026-02-11-17-52-51-618641.jpg",
+    "https://dan.mc.uz/storage/acts/33454/info/ACT_33454_2026-03-01-13-53-06-718528.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-02-11",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2056,
+   "danId": 33474,
+   "address": "Qushchi MFY, Al-Forobiy ko'chasi, 113-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 104.0,
+   "decision": "QRES2635300574803",
+   "protocol": "PAND2635301548545",
+   "lat": 40.517477363091,
+   "lon": 72.300450606601,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33474/info/ACT_33474_2026-02-16-10-39-22-733898.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-16",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2064,
+   "danId": 33496,
+   "address": "Obod MFY, Soxibkor ko‘chasi, 33-uy",
+   "region": "Andijon viloyati",
+   "district": "Bo’ston tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 80.0,
+   "decision": "QRES2635300574822",
+   "protocol": "PAND2635301703961",
+   "lat": 40.690629668921,
+   "lon": 71.950745270732,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33496/info/ACT_33496_2026-02-18-17-56-57-422893.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-18",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2067,
+   "danId": 33500,
+   "address": "Turon MFY, Al Buxoriy ko‘chasi, 67-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 220.0,
+   "decision": "QRES2635300574869",
+   "protocol": "PAND2635301758965",
+   "lat": 40.501263462528,
+   "lon": 72.329390525818,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33500/info/ACT_33500_2026-02-20-09-57-02-153902.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-02-20",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2184,
+   "danId": 33821,
+   "address": "Mullaboy MFY, Shox ko'chasi, 103-uy",
+   "region": "Andijon viloyati",
+   "district": "Shahrixon tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 315.0,
+   "decision": "QRES2635301246340",
+   "protocol": "PAND2635304080457",
+   "lat": 40.714457322802,
+   "lon": 72.061691974745,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33821/info/ACT_33821_2026-04-24-15-26-21-615306.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-04-24",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2240,
+   "danId": 33912,
+   "address": "Navro‘z MFY, M.Eshonov koʼchasi, 92-uy",
+   "region": "Andijon viloyati",
+   "district": "Paxtaobod tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 90.0,
+   "decision": "QRES2635301466260",
+   "protocol": "PAND2635304415005",
+   "lat": 40.925881371638,
+   "lon": 72.496971874691,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33912/info/ACT_33912_2026-05-04-19-30-55-839825.jpg",
+    "https://dan.mc.uz/storage/acts/33912/info/ACT_33912_2026-05-04-19-30-55-854994.jpg",
+    "https://dan.mc.uz/storage/acts/33912/info/ACT_33912_2026-05-04-19-30-55-850249.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-05-04",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2143,
+   "danId": 33726,
+   "address": "Muazzimboy MFY, Muazzinboy ko'chasi, h/c-uy",
+   "region": "Andijon viloyati",
+   "district": "Paxtaobod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 129.0,
+   "decision": "QRES2635301017636",
+   "protocol": "PAND2635302967546",
+   "lat": 40.925526628078,
+   "lon": 72.486516256752,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33726/info/ACT_33726_2026-03-26-11-07-30-914150.jpg",
+    "https://dan.mc.uz/storage/acts/33726/info/ACT_33726_2026-03-26-11-07-30-925184.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-03-26",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2186,
+   "danId": 33823,
+   "address": "Andijon MFY, Shimoliy Sanoat ko‘chasi, 3-uy",
+   "region": "Andijon viloyati",
+   "district": "Andijon shahri",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 525.0,
+   "decision": "QRES2635301258192",
+   "protocol": "PAND2635304084393",
+   "lat": 40.787604580686,
+   "lon": 72.377389038256,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33823/info/ACT_33823_2026-04-24-16-13-13-730543.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-04-24",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2196,
+   "danId": 33845,
+   "address": "Qo‘g‘ay MFY, Do'stlik ko'chasi, 3-uy",
+   "region": "Andijon viloyati",
+   "district": "Izboskan tumani",
+   "type": "Turar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 50.0,
+   "decision": "QRES2635301328666",
+   "protocol": "PAND2635304170239",
+   "lat": 40.92993065406,
+   "lon": 72.316300054265,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33845/info/ACT_33845_2026-04-27-10-59-37-043076.jpg",
+    "https://dan.mc.uz/storage/acts/33845/info/ACT_33845_2026-04-27-10-59-37-056294.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-04-27",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2272,
+   "danId": 33962,
+   "address": "Maorif MFY, Mustaqqillik ko'chasi, 13-uy",
+   "region": "Andijon viloyati",
+   "district": "Bo’ston tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 56.0,
+   "decision": "QRES2635301465959",
+   "protocol": "PAND2635304521783",
+   "lat": 40.690244427995,
+   "lon": 71.940433163929,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33962/info/ACT_33962_2026-05-07-17-29-20-850690.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-07",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2247,
+   "danId": 33922,
+   "address": "Toʻraobod MFY, Eshon ko'chasi, 101-uy",
+   "region": "Andijon viloyati",
+   "district": "Izboskan tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 50.0,
+   "decision": "QRES2635301466207",
+   "protocol": "PAND2635304435844",
+   "lat": 40.857538309904,
+   "lon": 72.18644944008,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33922/info/ACT_33922_2026-05-05-13-46-44-332400.jpg",
+    "https://dan.mc.uz/storage/acts/33922/info/ACT_33922_2026-05-05-13-46-44-343993.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-05-05",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2262,
+   "danId": 33941,
+   "address": "Omonariq MFY, Andijon ko'chasi, 131-a-uy",
+   "region": "Andijon viloyati",
+   "district": "Baliqchi tumani",
+   "type": "Noturar-joy",
+   "purpose": "Jamoat binolari va ma’muriy binolar",
+   "area": 162.0,
+   "decision": "QRES2635301466038",
+   "protocol": "PAND2635304484408",
+   "lat": 40.87623232638,
+   "lon": 71.978820800781,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33941/info/ACT_33941_2026-05-06-17-20-17-784282.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-06",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2250,
+   "danId": 33925,
+   "address": "Beshariq MFY, Yangi bog‘ ko'chasi, 80/1-uy",
+   "region": "Andijon viloyati",
+   "district": "Shahrixon tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 125.0,
+   "decision": "QRES2635301466169",
+   "protocol": "PAND2635304442834",
+   "lat": 40.711922232964,
+   "lon": 72.034330505159,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33925/info/ACT_33925_2026-05-05-16-12-29-065123.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-05",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2266,
+   "danId": 33954,
+   "address": "Bo‘ston MFY, Mustaqillik ko'chasi, 67-uy",
+   "region": "Andijon viloyati",
+   "district": "Bo’ston tumani",
+   "type": "Turar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 124.3,
+   "decision": "QRES2635301674457",
+   "protocol": "PAND2635304510132",
+   "lat": 40.687379558944,
+   "lon": 71.915995433992,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33954/info/ACT_33954_2026-05-07-12-31-14-689849.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-07",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2256,
+   "danId": 33932,
+   "address": "Yangiobod MFY, Tinchliksevar ko'chasi, 16-uy",
+   "region": "Andijon viloyati",
+   "district": "Ulug’nor tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 183.0,
+   "decision": "QRES2635301466091",
+   "protocol": "PAND2635304471473",
+   "lat": 40.81649861732,
+   "lon": 71.688670462347,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/33932/info/ACT_33932_2026-05-06-11-06-52-761479.jpg",
+    "https://dan.mc.uz/storage/acts/33932/info/ACT_33932_2026-05-06-11-06-52-712650.jpg",
+    "https://dan.mc.uz/storage/acts/33932/info/ACT_33932_2026-05-06-11-06-52-736625.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-05-06",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2469,
+   "danId": 34381,
+   "address": "Navroʻz MFY, Mustakillik ko'chasi, 97-uy",
+   "region": "Andijon viloyati",
+   "district": "Marhamat tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 230.0,
+   "decision": "QRES2635301542095",
+   "protocol": "PAND2635304959700",
+   "lat": 40.515755427241,
+   "lon": 72.337183990948,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34381/info/ACT_34381_2026-05-19-19-06-10-189057.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-19",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2330,
+   "danId": 34067,
+   "address": "Fayzobod MFY, Xamza ko'chasi, 19-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 196.0,
+   "decision": "QRES2635301465268",
+   "protocol": "PAND2635304687438",
+   "lat": 40.617996310829,
+   "lon": 72.659562766552,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34067/info/ACT_34067_2026-05-12-18-08-40-322249.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-05-12",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2316,
+   "danId": 34038,
+   "address": "Oybek MFY, Toshko'cha ko'chasi, 1-uy",
+   "region": "Andijon viloyati",
+   "district": "Izboskan tumani",
+   "type": "Turar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 195.0,
+   "decision": "QRES2635301465450",
+   "protocol": "PAND2635304564021",
+   "lat": 40.888432340859,
+   "lon": 72.239405453205,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34038/info/ACT_34038_2026-05-08-20-51-26-827216.jpg",
+    "https://dan.mc.uz/storage/acts/34038/info/ACT_34038_2026-05-08-20-51-26-823263.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-05-08",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2333,
+   "danId": 34070,
+   "address": "Muazzimboy MFY, Oltin yo‘l ko'chasi, 35-uy",
+   "region": "Andijon viloyati",
+   "district": "Paxtaobod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 25.0,
+   "decision": "QRES2635301465368",
+   "protocol": "PAND2635304668978",
+   "lat": 40.925264248181,
+   "lon": 72.486253767467,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34070/info/ACT_34070_2026-05-12-18-24-41-127474.jpg",
+    "https://dan.mc.uz/storage/acts/34070/info/ACT_34070_2026-05-12-18-24-41-124296.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-05-12",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2839,
+   "danId": 35066,
+   "address": "Kumakay MFY, Ko'makay ko'chasi, 16-uy",
+   "region": "Andijon viloyati",
+   "district": "Oltinko’l tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 135.0,
+   "decision": "QRES2635302767502",
+   "protocol": "PAND2635306052273",
+   "lat": 40.787243080572,
+   "lon": 72.286129378558,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/35066/info/ACT_35066_2026-06-23-21-34-58-226364.jpg",
+    "https://dan.mc.uz/storage/acts/35066/info/ACT_35066_2026-06-23-21-34-58-105737.jpg",
+    "https://dan.mc.uz/storage/acts/35066/info/ACT_35066_2026-06-23-21-34-58-332855.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-06-23",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 3038,
+   "danId": 35108,
+   "address": "Qo‘shtepa MFY, Chamanzor ko'chasi, 8-uy",
+   "region": "Andijon viloyati",
+   "district": "Oltinko’l tumani",
+   "type": "Turar-joy",
+   "purpose": "Yotoqxonalar, yakka tartibdagi uy-joy obyektlari",
+   "area": 153.0,
+   "decision": "QRES2635303547942",
+   "protocol": "PAND2635307913205",
+   "lat": 40.766984264214,
+   "lon": 72.308943317852,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/35108/info/ACT_35108_2026-06-29-21-59-09-092682.jpg",
+    "https://dan.mc.uz/storage/acts/35108/info/ACT_35108_2026-06-29-21-59-09-083112.jpg",
+    "https://dan.mc.uz/storage/acts/35108/info/ACT_35108_2026-06-29-21-59-09-090449.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-06-29",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2861,
+   "danId": 35119,
+   "address": "Maqsad MFY, Maqsad ko'chasi, 68-uy",
+   "region": "Andijon viloyati",
+   "district": "Oltinko’l tumani",
+   "type": "Noturar-joy",
+   "purpose": "Mumiy ovqatlanish shoxobchalari, shu jumladan, restoranlar",
+   "area": 80.0,
+   "decision": "QRES2635302766046",
+   "protocol": "PAND2635307913931",
+   "lat": 40.804314565282,
+   "lon": 72.238424067605,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/35119/info/ACT_35119_2026-06-30-21-10-53-587085.jpg",
+    "https://dan.mc.uz/storage/acts/35119/info/ACT_35119_2026-06-30-21-10-53-603919.jpg",
+    "https://dan.mc.uz/storage/acts/35119/info/ACT_35119_2026-06-30-21-10-53-613621.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-06-30",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2355,
+   "danId": 34100,
+   "address": "Uzunkoʻcha MFY, Madrasa ko'chasi, 8-uy",
+   "region": "Andijon viloyati",
+   "district": "Izboskan tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 190.0,
+   "decision": "QRES2635301465151",
+   "protocol": "PAND2635304695612",
+   "lat": 40.915712530003,
+   "lon": 72.357411371658,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34100/info/ACT_34100_2026-05-13-13-32-10-322072.jpg",
+    "https://dan.mc.uz/storage/acts/34100/info/ACT_34100_2026-05-13-13-32-10-328596.jpg"
+   ],
+   "photoCount": 2,
+   "actDate": "2026-05-13",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2874,
+   "danId": 35144,
+   "address": "Uzun ko'cha MFY, Uzun ko'chasi, 16-uy",
+   "region": "Andijon viloyati",
+   "district": "Oltinko’l tumani",
+   "type": "Noturar-joy",
+   "purpose": "Maishiy xizmat ko‘rsatish obyektlari",
+   "area": 249.0,
+   "decision": "QRES2635302765842",
+   "protocol": "PAND2635307962688",
+   "lat": 40.772909781005,
+   "lon": 72.102687019517,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/35144/info/ACT_35144_2026-07-02-23-12-18-716185.jpg",
+    "https://dan.mc.uz/storage/acts/35144/info/ACT_35144_2026-07-02-23-12-18-731436.jpg",
+    "https://dan.mc.uz/storage/acts/35144/info/ACT_35144_2026-07-02-23-12-18-742340.jpg"
+   ],
+   "photoCount": 3,
+   "actDate": "2026-07-02",
+   "verdict": "illegal"
+  },
+  {
+   "kind": "illegal",
+   "id": 2730,
+   "danId": 34833,
+   "address": "Orday MFY, Giloszor ko'chasi, 49-a-uy",
+   "region": "Andijon viloyati",
+   "district": "Xo’jaobod tumani",
+   "type": "Noturar-joy",
+   "purpose": "Savdo va tijorat obyektlari",
+   "area": 108.6,
+   "decision": "QRES2635302376968",
+   "protocol": "PAND2635305719235",
+   "lat": 40.592173223278,
+   "lon": 72.657549289585,
+   "photos": [
+    "https://dan.mc.uz/storage/acts/34833/info/ACT_34833_2026-06-11-18-45-29-961161.jpg"
+   ],
+   "photoCount": 1,
+   "actDate": "2026-06-11",
+   "verdict": "illegal"
+  }
+ ],
+ "examples": {
+  "reestr": "266389",
+  "cadastral": "10:01:01:01:01:0123",
+  "address": "Yuksalish MFY, Soʼqaloq ko‘chasi, 1-uy",
+  "illegalId": "2155"
+ }
+}

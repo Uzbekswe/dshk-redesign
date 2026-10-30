@@ -1,0 +1,236 @@
+/* ============================================================
+   Print — result card as a clean one-document PDF
+   ============================================================ */
+
+@media print {
+  @page {
+    margin: 14mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+    color: #000;
+  }
+
+  body {
+    font-size: 10.5pt;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .site-header,
+  .site-footer,
+  .skip-link,
+  .search-overlay,
+  .toast,
+  .back-link,
+  .action-panel,
+  .result-demo-note,
+  .map-mobile-bar,
+  .map-panel,
+  .map-legend,
+  .map-selected,
+  .map-loading,
+  .map-error,
+  .map-empty,
+  .maplibregl-control-container,
+  .pagination,
+  .registry-filters,
+  .registry-toolbar,
+  .registry-cards,
+  .help-cta,
+  .stats-cta,
+  .search-card,
+  .inline-search,
+  .empty-search,
+  .mobile-menu {
+    display: none !important;
+  }
+
+  .page,
+  .result-page,
+  .map-page {
+    padding: 0 !important;
+    background: #fff !important;
+    min-height: 0;
+  }
+
+  .container {
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  .result-layout {
+    display: block;
+  }
+
+  .result-aside {
+    position: static;
+    display: block;
+  }
+
+  .source-panel,
+  .contact-panel {
+    margin-top: 8mm;
+    break-inside: avoid;
+  }
+
+  .verdict-card {
+    padding: 6mm;
+    border-width: 1.5pt;
+    break-inside: avoid;
+  }
+
+  .verdict-card--registered {
+    background: #f1faf6 !important;
+    border-color: #8fceb6 !important;
+  }
+
+  .verdict-card--illegal {
+    background: #fff2f5 !important;
+    border-color: #f0b3c1 !important;
+  }
+
+  .verdict-card h1 {
+    font-size: 24pt;
+  }
+
+  .verdict-icon {
+    box-shadow: none;
+    border: 1pt solid currentColor;
+  }
+
+  .object-head {
+    margin: 6mm 0 4mm;
+  }
+
+  .object-head h2 {
+    font-size: 15pt;
+  }
+
+  .panel {
+    padding: 4mm;
+    margin-bottom: 4mm;
+    border: 1pt solid #cbd5e1;
+    box-shadow: none;
+    break-inside: avoid;
+  }
+
+  .panel-head h2 {
+    font-size: 11pt;
+  }
+
+  .facts-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 0 8mm;
+  }
+
+  .fact {
+    padding: 1.6mm 0;
+  }
+
+  .fact > strong {
+    font-size: 9.5pt;
+  }
+
+  .status-note,
+  .notice {
+    border-width: 1pt;
+  }
+
+  .timeline {
+    margin-bottom: 4mm;
+  }
+
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2mm;
+  }
+
+  .photo-tile {
+    break-inside: avoid;
+  }
+
+  .photo-zoom {
+    display: none;
+  }
+
+  .doc-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .doc-card {
+    break-inside: avoid;
+  }
+
+  .blocks-table {
+    font-size: 9pt;
+  }
+
+  .blocks-table th,
+  .blocks-table td {
+    padding: 1.5mm 2mm;
+  }
+
+  .registry-table-wrap {
+    display: block !important;
+    border: 0;
+    box-shadow: none;
+  }
+
+  .registry-table {
+    min-width: 0;
+    font-size: 8pt;
+  }
+
+  .registry-table th,
+  .registry-table td {
+    padding: 1.4mm;
+  }
+
+  .registry-table th:nth-child(4),
+  .registry-table td:nth-child(4),
+  .registry-table th:nth-child(6),
+  .registry-table td:nth-child(6),
+  .registry-table th:last-child,
+  .registry-table td:last-child {
+    display: none;
+  }
+
+  .table-address {
+    max-width: none;
+  }
+
+  .table-address a {
+    -webkit-line-clamp: unset;
+    display: block;
+    overflow: visible;
+  }
+
+  .map-shell {
+    display: block;
+    height: auto;
+    min-height: 0;
+    border: 0;
+  }
+
+  .map-stage {
+    min-height: 120mm;
+    border: 1pt solid #cbd5e1;
+  }
+
+  .map-selected {
+    display: none;
+  }
+
+  a[href] {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .page-source-note {
+    margin-top: 4mm;
+    font-size: 8pt;
+  }
+}

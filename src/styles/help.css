@@ -1,0 +1,154 @@
+/* ============================================================
+   Help / FAQ
+   ============================================================ */
+
+.help-page {
+  background: linear-gradient(180deg, #f8fbff 0, #fff 260px);
+}
+
+.help-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.45fr) minmax(290px, 0.85fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.faq-panel {
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.faq-panel > h2 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.faq-list {
+  margin-top: 14px;
+}
+
+.faq-item {
+  border-bottom: 1px solid var(--line);
+}
+
+.faq-item:last-child {
+  border-bottom: 0;
+}
+
+.faq-item summary {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  padding: 16px 0;
+  color: var(--ink-2);
+  font-size: 13.5px;
+  font-weight: 650;
+  list-style: none;
+  cursor: pointer;
+}
+
+.faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.faq-item summary > span:nth-child(2) {
+  flex: 1;
+}
+
+.faq-item summary > svg {
+  flex-shrink: 0;
+  color: var(--muted);
+  transition: transform 0.18s ease;
+}
+
+.faq-item[open] summary > svg {
+  transform: rotate(180deg);
+  color: var(--blue);
+}
+
+.faq-item summary:hover {
+  color: var(--blue-700);
+}
+
+.faq-number {
+  flex-shrink: 0;
+  color: var(--blue);
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.faq-answer {
+  padding: 0 0 17px 32px;
+}
+
+.faq-answer p {
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.75;
+}
+
+.help-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  margin-top: 22px;
+  padding: 19px;
+  border: 1px solid var(--blue-100);
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--blue-50), #f8fbff);
+}
+
+.help-cta h2 {
+  font-size: 16px;
+  font-weight: 750;
+}
+
+.help-cta p {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 11.5px;
+}
+
+.help-aside {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.help-card h2 {
+  margin: 10px 0 5px;
+  font-size: 14px;
+  font-weight: 750;
+}
+
+.help-card p {
+  color: var(--muted);
+  font-size: 11.5px;
+  line-height: 1.65;
+}
+
+.help-card .button {
+  margin-top: 13px;
+  height: 40px;
+  font-size: 12px;
+}
+
+.help-card .text-link {
+  margin-top: 9px;
+  font-size: 11.5px;
+}
+
+.help-card--telegram {
+  border-color: var(--blue-100);
+  background: linear-gradient(135deg, #fbfdff, #f3f9ff);
+}
+
+.help-card--demo {
+  border-style: dashed;
+  background: var(--bg);
+}

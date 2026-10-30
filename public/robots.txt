@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# This is a standalone design prototype for dshk.shaffofqurilish.uz.
